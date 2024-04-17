@@ -1,2 +1,7 @@
 "use strict";
-console.log('Hello World!!!');
+const message = 'Hello World!';
+const user = {
+    name: 'Marko',
+    age: 37
+};
+console.log(message);
